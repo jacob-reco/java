@@ -1,2 +1,2 @@
 # java
-A repository for learning how to build with Java 
+A repository for learning how to build basic Java apps.
